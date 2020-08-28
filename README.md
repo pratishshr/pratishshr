@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
+<img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/developer.svg" width="250px" />
 
 ###  Hello! Pratish here. <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
 
 
-- :computer: Software Engineer
-- :briefcase: Currently working at @leapfrogtechnology
-- ⚡ Leading engineering teams to build awesome products
-- ✉️ Feel free to get in [touch](mailto:pratishr@gmail.com) with me
+:computer: Software Engineer    
+:briefcase: Currently working at @leapfrogtechnology    
+⚡ Leading engineering teams to build awesome products    
+✉️ Feel free to get in [touch](mailto:pratishr@gmail.com) with me    
 
 
 ### Find me on:
