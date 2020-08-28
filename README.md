@@ -5,7 +5,7 @@
 :computer:  I'm a Software Engineer    
 :briefcase: Currently working at @leapfrogtechnology    
 :zap: Leading engineering teams to build awesome products    
-:wrench: Tools I'm currently using: Typescript, React, Node.js,  Go, Docker, AWS Services
+:wrench: Current Tools: Typescript, React, Node.js,  Go, Docker, AWS 
 
 ### Find me on:
 
