@@ -1,7 +1,6 @@
-<img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/developer.svg" width="250px" />
+<img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/developer.svg" width="250px" align="left" />
 
 ###  Hello! Pratish here. <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
-
 
 :computer: Software Engineer    
 :briefcase: Currently working at @leapfrogtechnology    
