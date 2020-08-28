@@ -2,11 +2,10 @@
 
 ###  Hello! Pratish here. <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
 
-:computer:  Software Engineer    
-:briefcase:  Currently working at @leapfrogtechnology    
-:zap:  Leading engineering teams to build awesome products    
-:envelope:  Feel free to get in [touch](mailto:pratishr@gmail.com) with me    
-
+:computer:  I'm a Software Engineer    
+:briefcase: Currently working at @leapfrogtechnology    
+:zap: Leading engineering teams to build awesome products    
+:wrench: Tools I'm currently using: Typescript, React, Node.js,  Go, Docker, AWS Services
 
 ### Find me on:
 
