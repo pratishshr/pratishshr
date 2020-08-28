@@ -1,6 +1,6 @@
-<img src="./developer.svg" width="300px" align="left"/>
+<img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
 
-###  Hello! Pratish here. <img src="./Hi.gif" width="30px" />
+###  Hello! Pratish here. <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
 
 
 - :computer: Software Engineer
@@ -9,11 +9,8 @@
 - ✉️ Feel free to get in [touch](mailto:pratishr@gmail.com) with me
 
 
-
-
 ### Find me on:
 
-<a href="https://twitter.com/pratishshr" target="_blank"><img src="./twitter.png" alt="Twitter" width="30"></a>
-<a href="https://www.instagram.com/pratishshr" target="_blank"><img src="./instagram.png" alt="Instagram" width="30"></a>
-<a href="https://www.linkedin.com/in/pratishshr/" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="30"></a>
-
+<a href="https://twitter.com/pratishshr" target="_blank"><img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/twitter.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/pratishshr" target="_blank"><img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/instagram.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/pratishshr/" target="_blank"><img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/linkedin.png" alt="LinkedIn" width="30"></a>
