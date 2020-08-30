@@ -7,7 +7,7 @@
 :zap: Leading engineering teams to build awesome products    
 :wrench: Current Tools: Typescript, React, Node.js,  Go, Docker, AWS 
 
-### Find me on:zz
+### Find me on:
 
 <a href="https://twitter.com/pratishshr" target="_blank"><img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/twitter.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/pratishshr" target="_blank"><img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/instagram.png" alt="Instagram" width="30"></a>
