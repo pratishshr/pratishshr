@@ -3,11 +3,11 @@
 ###  Hello! Pratish here. <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
 
 :computer:  I'm a Software Engineer    
-:briefcase: Currently working at <a href="https://www.lftechnology.com/" target="_blank">@leapfrogtechnology</a>    
+:briefcase: Currently working at [@leapfrogtechnology](https://github.com/leapfrogtechnology)      
 :zap: Leading engineering teams to build awesome products    
 :wrench: Current Tools: Typescript, React, Node.js,  Go, Docker, AWS 
 
-### Find me on:
+### Find me on:zz
 
 <a href="https://twitter.com/pratishshr" target="_blank"><img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/twitter.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/pratishshr" target="_blank"><img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/instagram.png" alt="Instagram" width="30"></a>
