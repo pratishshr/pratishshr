@@ -3,7 +3,7 @@
 ###  Hello! Pratish here. <img src="https://raw.githubusercontent.com/pratishshr/pratishshr/master/hi.gif" width="30px" />
 
 :computer:  I'm a Software Engineer    
-:briefcase: Currently working at [@leapfrogtechnology](https://www.lftechnology.com/)   
+:briefcase: Currently working at <a href="https://www.lftechnology.com/" target="_blank">@leapfrogtechnology</a>
 :zap: Leading engineering teams to build awesome products    
 :wrench: Current Tools: Typescript, React, Node.js,  Go, Docker, AWS 
 
