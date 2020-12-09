@@ -262,6 +262,12 @@
           transform: translate(0, -100px);
         }
       }
+   
+      @media (prefers-color-scheme: dark) {
+        .cls-23 {
+          fill: #ffffff
+        }
+      }
     </style>
     <clipPath id="clip-path" transform="translate(-40.09 -40.98)">
       <polygon
