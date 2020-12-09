@@ -10,7 +10,7 @@
 ### Find me on:
 
 <a href="https://twitter.com/pratishshr" target="_blank"><img src="https://raw.githubusercontent.com/pratishshr/pratishshr/dark-mode/twitter.svg" alt="Twitter" width="25"></a>
-&nbsp;
+
 <a href="https://www.instagram.com/pratishshr" target="_blank"><img src="https://raw.githubusercontent.com/pratishshr/pratishshr/dark-mode/instagram.svg" alt="Instagram" width="25"></a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/pratishshr/" target="_blank"><img src="https://raw.githubusercontent.com/pratishshr/pratishshr/dark-mode/linkedin.svg" alt="LinkedIn" width="25"></a>
